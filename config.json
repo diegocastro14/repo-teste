@@ -1,0 +1,27 @@
+{
+  "nome_projeto": "repo-teste",
+  "versao": "1.0.0",
+  "autor": "Claude",
+  "descricao": "Repositório de exemplo para testes",
+  "configuracoes": {
+    "debug": true,
+    "linguagem": "pt-BR",
+    "tema": "claro",
+    "porta": 3000
+  },
+  "dependencias": [
+    "python3",
+    "navegador-web"
+  ],
+  "scripts": {
+    "executar": "python hello.py",
+    "abrir_html": "open index.html"
+  },
+  "tags": [
+    "teste",
+    "exemplo",
+    "demonstracao",
+    "python",
+    "html"
+  ]
+}
