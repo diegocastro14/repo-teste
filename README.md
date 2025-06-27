@@ -11,7 +11,8 @@ repo-teste/
 ├── README.md          # Este arquivo
 ├── hello.py          # Script Python de exemplo
 ├── index.html        # Página web simples
-└── config.json       # Arquivo de configuração
+├── config.json       # Arquivo de configuração
+└── prompts-sdr.md    # Guia completo para SDRs
 ```
 
 ## 🚀 Como usar
@@ -27,12 +28,21 @@ Abra o arquivo `index.html` no seu navegador preferido.
 ### Configuração
 O arquivo `config.json` contém as configurações do projeto.
 
+### Prompts para SDR
+O arquivo `prompts-sdr.md` contém um guia completo com:
+- Templates de email para prospecção
+- Scripts para cold calling
+- Framework de qualificação BANT
+- Mensagens para LinkedIn
+- Métricas e checklists diários
+
 ## 📋 Funcionalidades
 
 - ✅ Script Python interativo
 - ✅ Página HTML responsiva
 - ✅ Arquivo de configuração JSON
 - ✅ Documentação completa
+- ✅ Guia profissional para SDRs
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -49,6 +59,7 @@ Este repositório foi criado para fins de teste e demonstração. Sinta-se livre
 - Testar funcionalidades do Git
 - Experimentar com diferentes linguagens
 - Usar como base para outros projetos
+- Utilizar os prompts de SDR em seu trabalho
 
 ---
 
